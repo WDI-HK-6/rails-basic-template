@@ -1,0 +1,14 @@
+.body-background{
+  /*background-color: #333330;*/
+  background-color: #bfbfbb;
+  /*color: #bfbfbb;*/
+  color: #333330;
+}
+
+.vertical-center {
+  min-height: 100%;
+  min-height: 100vh;
+
+  display: flex;
+  align-items: center;
+}
