@@ -24,8 +24,9 @@ gem 'sqlite3', group: :development
 	# Bootstrap
 gem 'bootstrap-sass', '~> 3.3.0'
 
-  gem 'better_errors'
-  gem 'binding_of_caller'
+# Debugging tools
+gem 'better_errors'
+gem 'binding_of_caller'
 ```
 
 4. Run `bundle install`
