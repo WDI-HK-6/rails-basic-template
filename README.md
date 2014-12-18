@@ -10,7 +10,7 @@
 - RubyGems.org is a place to find and download Ruby gems
 
 ### New Rails App
-1. rails new <name> -GBT
+1. rails new `<name>` -BT
 2. bundle install
 
 3. Change the following in the Gemfile
@@ -23,6 +23,9 @@ gem 'pg', group: :production
 gem 'sqlite3', group: :development
 	# Bootstrap
 gem 'bootstrap-sass', '~> 3.3.0'
+
+  gem 'better_errors'
+  gem 'binding_of_caller'
 ```
 
 4. Run `bundle install`
