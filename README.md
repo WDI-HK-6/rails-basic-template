@@ -11,9 +11,7 @@
 
 ### New Rails App
 1. rails new `<name>` -BT
-2. bundle install
-
-3. Change the following in the Gemfile
+2. Change the following in the Gemfile
 ``` ruby
 	# use '4.1.6' for heroku
 gem 'rails', '4.1.6'
