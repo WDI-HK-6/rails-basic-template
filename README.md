@@ -49,8 +49,6 @@ rails generate controller static_pages
 @import "bootstrap";
 ```
 
-10. Add .gitignore File
-
 ### Deploy to Heroku
 1. In `config/production.rb`, change the following 
 ```
