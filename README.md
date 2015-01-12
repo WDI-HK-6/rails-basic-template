@@ -60,4 +60,4 @@ config.serve_static_assets = true
 ```
 2. heroku create
 3. Commit your changes
-4. git push heroic master
+4. git push heroku master
